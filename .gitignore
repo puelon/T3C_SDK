@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/libuvccamera/build/
+/libuvccamera/build/intermediates/javac/debug/classes/
+/matisse/build/
+/matisse/build/intermediates/javac/debug/classes/
+/usbCameraCommon/build/
+/usbCameraCommon/build/intermediates/javac/debug/classes/
+/Xtherm/build/
+/Xtherm/build/intermediates/javac/debug/classes/

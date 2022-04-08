@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.santuario:xmlsec:2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/modules-2/files-2.1/org.apache.santuario/xmlsec/2.0.0/7699e27942a10ea1e5df7474d41e8a54f1962cc6/xmlsec-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/modules-2/files-2.1/org.apache.santuario/xmlsec/2.0.0/e524770040e41877977752e93f4cc727cdcc9d2f/xmlsec-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/modules-2/files-2.1/org.apache.santuario/xmlsec/2.0.0/50f258b5e605c9d6f011167ddaaf5a3e1401b4ec/xmlsec-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

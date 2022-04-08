@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:recyclerview-v7:27.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/transforms-3/bba88bb6a639d1b27b4f0cc63ba9844c/transformed/recyclerview-v7-27.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/transforms-3/bba88bb6a639d1b27b4f0cc63ba9844c/transformed/recyclerview-v7-27.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/transforms-3/bba88bb6a639d1b27b4f0cc63ba9844c/transformed/recyclerview-v7-27.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/modules-2/files-2.1/com.android.support/recyclerview-v7/27.0.2/76f4751bc97ce7fa2362dc5a38b39089066a2c99/recyclerview-v7-27.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

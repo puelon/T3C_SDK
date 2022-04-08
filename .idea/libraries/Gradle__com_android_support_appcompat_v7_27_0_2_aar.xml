@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:appcompat-v7:27.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/transforms-3/dcc24aa661fc0dedf5fc185a5eaad51f/transformed/appcompat-v7-27.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/transforms-3/dcc24aa661fc0dedf5fc185a5eaad51f/transformed/appcompat-v7-27.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/transforms-3/dcc24aa661fc0dedf5fc185a5eaad51f/transformed/appcompat-v7-27.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../UVCCameraProDemoLTS-v5.02.200071002/UVCCameraProDemoLTS-v5.02.200071002/.gradle/4.4/caches/modules-2/files-2.1/com.android.support/appcompat-v7/27.0.2/4ae031a24f432a35efae0d609731c5a34e65696c/appcompat-v7-27.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
